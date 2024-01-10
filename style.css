@@ -62,3 +62,35 @@ header{
     border-radius: 5px;
     font-size: 20px;
 }
+/* Main start */
+main{
+    background-color: #2d236a;
+    padding-top: 20px;
+}
+#main-section{
+    width: 1100px;
+    margin: 0 auto;
+    padding: 50px;
+
+}
+.latest-video-parent{
+    display: flex;
+    justify-content: space-between;
+}
+.latest-text{
+    font-size: 25px;
+    color: #04aa6d;
+    font-weight: bold;
+}
+.latest-pages{
+    color: #04aa6d;
+}
+.latest-pages span{
+    color: black;
+    background-color:antiquewhite;
+    padding: 5px;
+    border-radius: 4px;
+    margin: 0 10px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
