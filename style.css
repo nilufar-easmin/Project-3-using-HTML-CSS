@@ -8,6 +8,8 @@ nav{
     background-color: #1a1244;
     padding: 10px 200px;
     border-bottom: 4px solid #401e63;
+    position: sticky;
+    top: 0;
 }
 .logo h2{
     color: white;
@@ -176,8 +178,9 @@ color: white;
     margin-top: 20px;
 }
 .footer-firstItem:first-child p{
-    margin-bottom: 5opx;
+    margin-bottom: 50px;
 }
+
 
 .footer-2ndItem h3{
     font-size: 25px;
