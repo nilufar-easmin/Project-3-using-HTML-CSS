@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.read{
+    margin: 100px auto;
+    width: 800px;
+}
+h1{
+    font-size: 40px;
+    margin:  0 auto;
+    display: block;
+}
